@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm Shammo
-
-<!--
-**hrshammo/hrshammo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 #Who am I ?
 I am a second year student at Bangladesh University of Business and Technology (BUBT) currently doing my Bachelors in Computer Engineering. 
 I am an open source Contributor and an web development addict.
+
+<!--
+**hrshammo/hrshammo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
