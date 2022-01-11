@@ -7,6 +7,9 @@
 ░╚═══██╗██╔══██║██╔══██║██║╚██╔╝██║██║╚██╔╝██║██║░░██║
 ██████╔╝██║░░██║██║░░██║██║░╚═╝░██║██║░╚═╝░██║╚█████╔╝
 ╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═╝░░░░░╚═╝░╚════╝░
+![Dark Blue   Blue Gradient Marketing LinkedIn Banner](https://user-images.githubusercontent.com/76872754/148948182-323e9877-8b1e-4062-bf9e-86c74188d192.png)
+
+
 
 ## Who am I ?
 I am a second year student at Bangladesh University of Business and Technology (BUBT) currently doing my Bachelors in Computer Engineering. 
