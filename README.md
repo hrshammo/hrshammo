@@ -21,3 +21,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/hrshammo/count.svg)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrshammo&show_icons=true&locale=en&layout=compact" alt="hrshammo" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrshammo&show_icons=true&locale=en" alt="hrshammo" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrshammo&" alt="hrshammo" /></p>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hrshammo)  
+
+![GitHub metrics](https://metrics.lecoq.io/hrshammo)
+
