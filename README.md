@@ -4,8 +4,8 @@
 
 
 ## Who am I ?
-I am a second year student at Bangladesh University of Business and Technology (BUBT) currently doing my Bachelors in Computer Engineering. 
-I am an open source Contributor and an web development addict.
+I am a third-year student at Bangladesh University of Business and Technology (BUBT) currently doing my Bachelor's in Computer Engineering. 
+I am an open-source Contributor and a web development addict.
 
 <!--
 **hrshammo/hrshammo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,12 +26,34 @@ Here are some ideas to get you started:
 ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/hrshammo/count.svg)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrshammo&show_icons=true&locale=en&layout=compact" alt="hrshammo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrshammo&show_icons=true&locale=en" alt="hrshammo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrshammo&" alt="hrshammo" /></p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hrshammo)  
+<h2 align="center">Trophies</h2>
+<div align="center">
+    
+[![trophy](https://github-profile-trophy.vercel.app/?username=hrshammo)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
+
+    
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=hrshammo&count_private=true&show_icons=true&theme=tokyonight" />
+</div>
+    
+ <div align="center">
+     
+     
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=hrshammo&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+</div>
+ 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrshammo&layout=compact&theme=react&count_private=false" />
+</div>
+
+<div align="center">
+    
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hrshammo)  
+</div>
+    
 
 
