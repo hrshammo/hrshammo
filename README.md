@@ -1,8 +1,3 @@
-### Hi there 👋 I'm 
-![Dark Blue   Blue Gradient Marketing LinkedIn Banner](https://user-images.githubusercontent.com/76872754/148948182-323e9877-8b1e-4062-bf9e-86c74188d192.png)
-
-
-
 ## Who am I ?
 I am a third-year student at Bangladesh University of Business and Technology (BUBT) currently doing my Bachelor's in Computer Engineering. 
 I am an open-source Contributor and a web development addict.
@@ -29,17 +24,29 @@ Here are some ideas to get you started:
 
 
 
-<h2 align="center">Trophies</h2>
-<div align="center">
-    
-[![trophy](https://github-profile-trophy.vercel.app/?username=hrshammo)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
 
+ 
     
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=hrshammo&count_private=true&show_icons=true&theme=tokyonight" />
-</div>
-    
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hrshammo/) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hrshammo&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hrshammo&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hrshammo&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hrshammo&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=hrshammo&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ 
  <div align="center">
      
      
@@ -47,13 +54,3 @@ Here are some ideas to get you started:
 </div>
  
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrshammo&layout=compact&theme=react&count_private=false" />
-</div>
-
-<div align="center">
-    
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hrshammo)  
-</div>
-    
-
-
