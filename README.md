@@ -16,21 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
 ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/hrshammo/count.svg)
 
-
-
-
-
- 
-    
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hrshammo/) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hrshammo&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hrshammo&theme=gotham&hide_border=false)<br/>
@@ -54,3 +42,6 @@ Here are some ideas to get you started:
 </div>
  
 <div align="center">
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hrshammo/) 
