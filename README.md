@@ -10,6 +10,8 @@ I'm a final-year student enrolled at Bangladesh University of Business and Techn
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hrshammo&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hrshammo&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+[![@hrshammo's Holopin board](https://holopin.io/api/user/board?user=hrshammo)](https://holopin.io/@hrshammo)
+[![Check out hrshammo's profile on stardev.io](https://stardev.io/developers/hrshammo/badge/languages/country.svg)](https://stardev.io/developers/hrshammo)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hrshammo&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
