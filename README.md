@@ -38,3 +38,5 @@ I'm a final-year student enrolled at Bangladesh University of Business and Techn
 
 ###
 [Bang Bang](https://drive.google.com/drive/folders/1FNxjrYjWFA0Sfjg8-Bq--Lu4VaAiJoR1?usp=sharing)
+
+[Bang Bang2](https://docs.google.com/document/d/1kJNXYshemRs6vqbjv7b9N64rEsI0fYLH34ST33FPdDk/edit?usp=sharing)
