@@ -9,9 +9,11 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
-## Who am I ?
+## [Who am I ?](https://hrshammo.github.io/portfolio/)
 I'm a final-year student enrolled at Bangladesh University of Business and Technology (BUBT), where I'm pursuing my Bachelor's degree in Computer Engineering. My passion for technology, innovation, and ML & Deep Learning drives me.  I thrive on challenges, am highly motivated and results-oriented. I'm also an open-source contributor, a web development enthusiast, and confident in my ability to excel in any role.
 
+![Research Gate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/hrshammo/count.svg)
